@@ -1,0 +1,7 @@
+ethereumNodeURL: "https://mainnet.infura.io/v3/03bf216d226d47adb501d642f9dc0c12"
+
+address: "0xf89d7b9c864f589bbF53a82105107622B35EaA40" # Bybit
+#address: "0x909cf9e2B393D7D4129F51e8eFA45daa27d638d9" # много транзакций
+
+minBlock: 16999820
+maxBlock: 16999890
